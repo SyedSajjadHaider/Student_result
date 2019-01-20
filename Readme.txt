@@ -1,3 +1,4 @@
+Purpose to learn OPENPYXL module of python 
 
 student_data_input.py
 
