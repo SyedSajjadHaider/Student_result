@@ -1,13 +1,10 @@
-Purpose to learn OPENPYXL module of python 
+Purpose is to learn OPENPYXL module of python 
 
 student_data_input.py
 
-This is script takes input from user as NAME ROLL-NO AND MARKS
-finally creates  a excel sheet of all the data 
-
-
+This script takes input from user as NAME ROLL-NO AND MARKS
+and creates  a excel sheet of all the data 
 
 
 student_result.py
-
-This sheet creates 'result excel sheet' ,where student name and final result is shown
+This script creates 'result excel sheet' ,where student name and final result is shown
